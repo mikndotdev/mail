@@ -4,7 +4,7 @@ const app = new Hono()
 
 app.post('/', (c) => {
   const body = c.req.json()
-  console.log(body)
+  console.log(JSON.stringify(body))
 })
 
 export default app
