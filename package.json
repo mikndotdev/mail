@@ -19,5 +19,8 @@
   },
   "workspaces": [
     "packages/*"
-    ]
+  ],
+  "dependencies": {
+    "wrangler": "^3.107.3"
+  }
 }
