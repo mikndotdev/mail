@@ -12,9 +12,11 @@
     "deploy": "bun run pages:build && wrangler pages deploy"
   },
   "dependencies": {
+    "@cloudflare/next-on-pages": "^1.13.7",
+    "daisyui": "^4.12.23",
+    "next": "15.1.6",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "next": "15.1.6"
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "typescript": "^5",

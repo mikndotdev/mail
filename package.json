@@ -19,9 +19,5 @@
   },
   "workspaces": [
     "packages/*"
-  ],
-  "dependencies": {
-    "@cloudflare/next-on-pages": "^1.13.7",
-    "daisyui": "^4.12.23"
-  }
+    ]
 }
