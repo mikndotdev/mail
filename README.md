@@ -10,7 +10,6 @@
 
 [Click here to finish setting up your workspace!](https://cloud.nx.app/connect/7tPYx3w1XR)
 
-
 ## Generate a library
 
 ```sh
